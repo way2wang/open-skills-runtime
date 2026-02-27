@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bpmn-engine": "^25.0.1",
+    "openai": "^6.25.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
